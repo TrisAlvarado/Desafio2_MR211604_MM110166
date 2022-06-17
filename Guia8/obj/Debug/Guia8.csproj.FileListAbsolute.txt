@@ -1,0 +1,145 @@
+C:\Users\usuario\Desktop\Guia8\Guia8\bin\Debug\Guia8.exe.config
+C:\Users\usuario\Desktop\Guia8\Guia8\bin\Debug\Guia8.exe
+C:\Users\usuario\Desktop\Guia8\Guia8\bin\Debug\Guia8.pdb
+C:\Users\usuario\Desktop\Guia8\Guia8\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.Arco.resources
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.Vertice.resources
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.exe
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.pdb
+C:\Users\usuario\Desktop\Guia8\Guia8\obj\Debug\Guia8.Form1.resources
+F:\Guia9\Guia8\bin\Debug\Guia8.exe.config
+F:\Guia9\Guia8\obj\Debug\Guia8.exe
+F:\Guia9\Guia8\obj\Debug\Guia8.pdb
+F:\Guia10\DijkstraGrafico\Guia8\bin\Debug\Guia8.exe.config
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.exe
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.pdb
+F:\Guia10\DijkstraGrafico\Guia8\bin\Debug\Guia8.exe
+F:\Guia10\DijkstraGrafico\Guia8\bin\Debug\Guia8.pdb
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.csprojResolveAssemblyReference.cache
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.Arco.resources
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.Eliminarcs.resources
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.Form1.resources
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.Vertice.resources
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.csproj.GenerateResource.Cache
+F:\Guia10\DijkstraGrafico\Guia8\obj\Debug\Guia8.Recorrido.resources
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\bin\Debug\Guia8.exe.config
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.exe
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.pdb
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.csprojResolveAssemblyReference.cache
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.Arco.resources
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.Eliminarcs.resources
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.Form1.resources
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.Recorrido.resources
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.Vertice.resources
+C:\Users\my 20th. laptop\Downloads\DijkstraGrafico\Guia8\obj\Debug\Guia8.csproj.GenerateResource.Cache
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.csprojResolveAssemblyReference.cache
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.Arco.resources
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.Form1.resources
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.Vertice.resources
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.csproj.GenerateResource.Cache
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.exe
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.pdb
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\bin\Debug\Guia8.exe.config
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\bin\Debug\Guia8.exe
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\bin\Debug\Guia8.pdb
+F:\Users\FER\Documents\PROGRA IV\Harry\DijkstraGrafico\Guia8\obj\Debug\Guia8.Buscar.resources
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe.config
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.pdb
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csprojResolveAssemblyReference.cache
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Arco.resources
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Buscar.resources
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Vertice.resources
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csproj.GenerateResource.Cache
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.exe
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.pdb
+C:\Users\CarmenFIES\Desktop\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Simulador.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe.config
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.exe
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.pdb
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.pdb
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csprojResolveAssemblyReference.cache
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Arco.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Buscar.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Simulador.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Vertice.resources
+C:\Users\CarmenFIES\Desktop\TODO}\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csproj.GenerateResource.Cache
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe.config
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.exe
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.pdb
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.pdb
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csprojResolveAssemblyReference.cache
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Arco.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Buscar.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Simulador.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Vertice.resources
+C:\Users\CarmenFIES\Desktop\TODO\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csproj.GenerateResource.Cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe.config
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.exe
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\bin\Debug\Guia8.pdb
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csprojAssemblyReference.cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Arco.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Buscar.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Simulador.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.Vertice.resources
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csproj.GenerateResource.cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csproj.CoreCompileInputs.cache
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.csproj.CopyComplete
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.exe
+D:\ciclos udb\ciclo 02-2017\Programación IV\trabajos de laboratorio\Analisis-de-resultados-9\2017_10_09_22_21_29_bg141166_Analisis Guia9 BG141166\Analisis\Guia8\obj\Debug\Guia8.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\Guia8.exe.config
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\Guia8.exe
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\Guia8.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.csproj.AssemblyReference.cache
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.Arco.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.Buscar.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.Simulador.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.Vertice.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.csproj.GenerateResource.cache
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.csproj.CoreCompileInputs.cache
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.exe
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\obj\Debug\Guia8.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.dll
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.xml
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\Analisis\Analisis\Guia8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\Guia8.exe.config
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\Guia8.exe
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\Guia8.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.dll
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.xml
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.Arco.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.Buscar.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.Simulador.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.Properties.Resources.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.Vertice.resources
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.csproj.GenerateResource.cache
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.csproj.CoreCompileInputs.cache
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.exe
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.pdb
+C:\Users\Michael Flores\Desktop\UDB Virtual\C2-2021\PROGRA ESTRUCTURADA\ANA NO\Analisis\Guia8\obj\Debug\Guia8.csproj.AssemblyReference.cache
